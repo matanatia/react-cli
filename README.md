@@ -8,15 +8,12 @@ React CLI is a tool that helps develop react and react native based applications
 
 React CLI does **not** require *any* additional changes to your code or method of development. 
 
-[![NPM version](https://badge.fury.io/js/React CLI.svg)](https://npmjs.org/package/React CLI)
-[![Travis Status](https://travis-ci.org/remy/React CLI.svg?branch=master)](https://travis-ci.org/remy/React CLI) [![Backers on Open Collective](https://opencollective.com/React CLI/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/React CLI/sponsors/badge.svg)](#sponsors)
-
 # Installation
 
 Either through cloning with git or by using [npm](http://npmjs.org) (the recommended way):
 
 ```bash
-npm install -g git+https://git@github.com/visionmedia/express.git
+npm install -g git+https://github.com/matanatia/react-cli.git
 ```
 
 And React CLI will be installed globally to your system path.
@@ -24,10 +21,10 @@ And React CLI will be installed globally to your system path.
 You can also install React CLI as a development dependency:
 
 ```bash
-npm install --save-dev git+https://git@github.com/visionmedia/express.git
+npm install --save-dev git+https://github.com/matanatia/react-cli.git
 ```
 
-With a local installation, React CLI will not be available in your system path. Instead, the local installation of React CLI can be run by calling it from within an npm script (such as `npm start`) or using `npx git+https://git@github.com/visionmedia/express.git`.
+With a local installation, React CLI will not be available in your system path. Instead, the local installation of React CLI can be run by calling it from within an npm script (such as `npm start`) or using `npx git+https://github.com/matanatia/react-cli.git`.
 
 # Usage 
 
