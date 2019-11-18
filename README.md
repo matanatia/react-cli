@@ -41,7 +41,7 @@ react-cli
 ## Commands
 The commands avilable for this version are as follows:
 
- - create-react-component - 
+ - **create-react-component** - 
  
     create 3 files - `component_name.js` (react class base component), `component_name.css` file and `component_name.test.js`.
     when using the `-f` option create these files inside a folder with the name of the component at the location given by the user 
@@ -51,9 +51,9 @@ The commands avilable for this version are as follows:
     react-cli create-react-component MyComponent ./src/components -f
     ```
 
- - crc - alias for **create-react-component**
+ - **crc** - alias for **create-react-component**
 
- - create-react-functional-component -
+ - **create-react-functional-component** -
 
     create 3 files - `component_name.js` (react functional base component), `component_name.css` file and `component_name.test.js`.
     when using the `-f` option create these files inside a folder with the name of the component at the location given by the user 
@@ -63,9 +63,9 @@ The commands avilable for this version are as follows:
     react-cli create-react-functional-component MyComponent ./src/components -f
     ```
 
- - crfc - alias for **create-react-functional-component**
+ - **crfc** - alias for **create-react-functional-component**
 
- - create-react-native-component -
+ - **create-react-native-component** -
 
     With `-sp` option this command create 2 files `component_name.js` (react native class base component) and `component_name.style.js` file.
     Without `-sp` option this command create 1 file `component_name.js` (react native class base component) and inside the component file there will be `style` object.
@@ -76,9 +76,9 @@ The commands avilable for this version are as follows:
     react-cli create-react-native-component MyComponent ./src/components -f -sp
     ```
 
- - crnc - alias for **create-react-native-component**
+ - **crnc** - alias for **create-react-native-component**
 
- - create-react-native-functional-component -
+ - **create-react-native-functional-component** -
 
     With `-sp` option this command create 2 files `component_name.js` (react native functional base component) and `component_name.style.js` file.
     Without `-sp` option this command create 1 file `component_name.js` (react native functional base component) and inside the component file there will be `style` object.
@@ -89,7 +89,7 @@ The commands avilable for this version are as follows:
     react-cli create-react-native-functional-component MyComponent ./src/components -f -sp
     ```
 
- - crnfc - alias for **create-react-native-functional-component**
+ - **crnfc** - alias for **create-react-native-functional-component**
 
 ## For local installation
 
