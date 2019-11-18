@@ -116,8 +116,5 @@ npm run create-react-component -f
 npm run create-rn-component -f -sp
 ```
 
-- **If the you want to change the tamplate for the application you can change it at the react-cli.tamplates.json file in the react-cli folder at your node_modules folder**
+- **If you want to change the tamplate for the application you can change it at the react-cli.tamplates.json file in the react-cli folder at your node_modules folder**
 
-# License
-
-MIT [http://rem.mit-license.org](http://rem.mit-license.org)
