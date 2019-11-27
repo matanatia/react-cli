@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo_v1/logo.png" alt="React CLI Logo">
+  <img src="./assets/logo_v2/logo.png" alt="React CLI Logo">
 </p>
 
 # React CLI 
@@ -13,7 +13,7 @@ React CLI does **not** require *any* additional changes to your code or method o
 Either through cloning with git or by using [npm](http://npmjs.org) (the recommended way):
 
 ```bash
-npm install -g git+https://github.com/matanatia/react-cli.git
+npm install -g git+https://github.com/matanatia/react-cli.git#master
 ```
 
 And React CLI will be installed globally to your system path.
@@ -21,10 +21,10 @@ And React CLI will be installed globally to your system path.
 You can also install React CLI as a development dependency:
 
 ```bash
-npm install --save-dev git+https://github.com/matanatia/react-cli.git
+npm install --save-dev git+https://github.com/matanatia/react-cli.git#master
 ```
 
-With a local installation, React CLI will not be available in your system path. Instead, the local installation of React CLI can be run by calling it from within an npm script (such as `npm start`) or using `npx git+https://github.com/matanatia/react-cli.git`.
+With a local installation, React CLI will not be available in your system path. Instead, the local installation of React CLI can be run by calling it from within an npm script (such as `npm start`) or using `npx git+https://github.com/matanatia/react-cli.git#master`.
 
 # Usage 
 
