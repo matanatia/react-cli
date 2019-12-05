@@ -21,7 +21,7 @@ And React CLI will be installed globally to your system path.
 You can also install React CLI as a development dependency:
 
 ```bash
-npm i -D https://github.com/matanatia/react-cli.git
+npm i -D https://github.com/matanatia/react-cli
 ```
 
 With a local installation, React CLI will not be available in your system path. Instead, the local installation of React CLI can be run by calling it from within an npm script (such as `npm start`) or using `npx git+https://github.com/matanatia/react-cli.git#master`.
